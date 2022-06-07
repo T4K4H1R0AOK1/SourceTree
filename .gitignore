@@ -1,0 +1,10 @@
+Assimp/
+DirectXTex/
+.VS/
+*.exe
+*.pdb
+*.ilk
+*.user
+*.lib
+*.obj
+*.exp
